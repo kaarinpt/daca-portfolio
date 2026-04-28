@@ -115,13 +115,6 @@ npm run dev
 | Slack | https://meeskond.slack.com | Suhtlus |
 | Vercel / Netlify | https://... | Deploy ja hosting |
 
-### Elav sait
-| Keskkond | URL | Haru |
-|----------|-----|------|
-| Production | https://portfoolio.ee | `main` |
-| Staging | https://staging.portfoolio.ee | `staging` |
-| Development | http://localhost:3000 | lokaalne |
-
 ---
 
 ## 🔐 Keskkonna muutujad
