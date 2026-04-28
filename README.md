@@ -1,4 +1,4 @@
-# 🚀 Meeskonna Portfoolio
+# 🚀 [Sales Analytics] -- UrbanStyle.ltd Andmemeeskond
 
 > Kõik lingid, ligipääsud ja seadistused ühes kohas.
 
