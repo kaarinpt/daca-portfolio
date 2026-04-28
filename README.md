@@ -95,15 +95,13 @@ portfoolio/
 
 ```env
 # Üldised
-VITE_APP_NAME=Meeskonna Portfoolio
-VITE_APP_URL=https://portfoolio.ee
+
 
 # API
-VITE_API_URL=https://api.portfoolio.ee
-VITE_API_KEY=sinu_api_võti_siia
+
 
 # Andmebaas (ainult backend)
-DATABASE_URL=postgresql://kasutaja:parool@localhost:5432/portfoolio
+
 ---
 
 ## 🌿 Harustrateegia (Branching)
