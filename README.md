@@ -40,6 +40,31 @@
 
 ## 📁 Kataloogistruktuur
 
+github.com/sinuusername/
+├── daca-week1-sql-basics/
+│   ├── queries.sql
+│   ├── results.csv
+│   └── README.md
+├── daca-week3-joins/
+│   ├── analysis.sql
+│   ├── notebook.ipynb
+│   └── README.md
+├── daca-week5-pandas/
+│   ├── cleaning.py
+│   ├── analysis.ipynb
+│   └── README.md
+
+
+Iga projekti README.md peab sisaldama:
+Projekti kirjeldus: "See projekt analüüsib UrbanStyle'i klientide segmentatsiooni"
+Kasutatud tööriistad: SQL, Python, pandas
+Leitud insights: "Tallinna kliendid kulutavad 30% rohkem kui teised"
+Kuidas koodi käivitada: Step-by-step juhend
+Tööandjad vaatavad sinu GitHubi:
+Nad tahavad näha koodi kvaliteeti
+Dokumentatsiooni (kas sa oskad selgitada?)
+Projekte mitmekesisust (SQL, Python, visualiseerimist)
+
 ```
 portfoolio/
 ├── README.md                  # See fail – seadistused ja lingid
