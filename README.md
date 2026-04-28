@@ -28,17 +28,12 @@
 
 ## 👥 Meeskond ja ligipääsud
 
-| Nimi | Roll | GitHub kasutajanimi | Ligipääsutase |
-|------|------|----------------------|---------------|
-| Nimi Perenimi | Tech Lead | @kasutajanimi | Admin |
-| Nimi Perenimi | Frontend | @kasutajanimi | Write |
-| Nimi Perenimi | Backend | @kasutajanimi | Write |
-| Nimi Perenimi | Designer | @kasutajanimi | Read |
-
-### Ligipääsu lisamine
-1. Mine **GitHub → repositoorium → Settings → Collaborators**
-2. Klõpsa „Add people"
-3. Otsi kasutajanime järgi ja vali roll
+| Nimi | Roll (Nädal 1) | OS |
+| Ahto Sooaru] | A: Team Charter Koostaja | Win |
+| Doris Kaarus | B: GitHub Repo Seadistaja | Mac |
+| Henri Greenbaum | B: Supabase Seadistaja | Mac |
+| Kaarin Peet | B: Portfoolio Struktuur + Dokumentatsioon | Win |
+| Tekla Relika Ani | B: Data Processing | Win |
 
 ---
 
