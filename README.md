@@ -1,7 +1,6 @@
 # 🚀 [Sales Analytics] -- UrbanStyle.ltd Andmemeeskond
 
-> Kõik lingid, ligipääsud ja seadistused ühes kohas.
-
+> Kõik ühes kohas.
 ---
 
 ## 📋 Sisukord
@@ -74,28 +73,6 @@ portfoolio/
 
 ## ⚙️ Seadistus – alustamine
 
-### 1. Klooni repositoorium
-```bash
-git clone https://github.com/ORGANISATSIOON/portfoolio.git
-cd portfoolio
-```
-
-### 2. Installi sõltuvused
-```bash
-npm install
-```
-
-### 3. Seadista keskkonna muutujad
-```bash
-cp .env.example .env
-# Ava .env ja täida väärtused
-```
-
-### 4. Käivita arendusserver
-```bash
-npm run dev
-```
-
 ---
 
 ## 🔗 Olulised lingid
@@ -111,17 +88,10 @@ npm run dev
 
 ### Meeskonnatöö tööriistad
 | Tööriist | Link | Eesmärk |
-|----------|------|---------|
-| Figma | https://figma.com/... | Disainifailid |
-| Notion | https://notion.so/... | Dokumentatsioon |
-| Slack | https://meeskond.slack.com | Suhtlus |
-| Vercel / Netlify | https://... | Deploy ja hosting |
 
 ---
 
 ## 🔐 Keskkonna muutujad
-
-Loo `.env` fail projekti juurkausta (ära kunagi lisa Giti!):
 
 ```env
 # Üldised
@@ -143,16 +113,6 @@ main          ← stabiilne, production
 staging       ← testimine enne toodangut
 feature/...   ← uued funktsioonid (nt feature/avaleht)
 fix/...       ← veaparandused (nt fix/navigatsioon)
-```
-
-### Tüüpiline töövoog
-```bash
-git checkout -b feature/minu-funktsioon
-# tee muudatused
-git add .
-git commit -m "Lisa: uus funktsioon"
-git push origin feature/minu-funktsioon
-# Ava Pull Request GitHubis
 ```
 
 ---
