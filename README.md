@@ -40,7 +40,7 @@
 
 ## 📁 Kataloogistruktuur
 
-github.com/sinuusername/
+github.com/kaarinpt/
 ├── daca-week1-sql-basics/
 │   ├── queries.sql
 │   ├── results.csv
@@ -55,10 +55,10 @@ github.com/sinuusername/
 │   └── README.md
 
 
-Iga projekti README.md peab sisaldama:
-Projekti kirjeldus: "See projekt analüüsib UrbanStyle'i klientide segmentatsiooni"
-Kasutatud tööriistad: SQL, Python, pandas
-Leitud insights: "Tallinna kliendid kulutavad 30% rohkem kui teised"
+                 # Iga projekti README.md peab sisaldama:
+                 # Projekti kirjeldus: "See projekt analüüsib UrbanStyle'i klientide segmentatsiooni"
+                 # Kasutatud tööriistad: SQL, Python, pandas
+                 # Leitud insights: "Tallinna kliendid kulutavad 30% rohkem kui teised"
 Kuidas koodi käivitada: Step-by-step juhend
 Tööandjad vaatavad sinu GitHubi:
 Nad tahavad näha koodi kvaliteeti
