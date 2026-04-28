@@ -139,10 +139,6 @@ VITE_API_KEY=sinu_api_võti_siia
 
 # Andmebaas (ainult backend)
 DATABASE_URL=postgresql://kasutaja:parool@localhost:5432/portfoolio
-```
-
-> ⚠️ `.env` on lisatud `.gitignore` faili – ära kunagi lae päris võtmeid GitHubi!
-
 ---
 
 ## 🌿 Harustrateegia (Branching)
@@ -169,9 +165,6 @@ git push origin feature/minu-funktsioon
 ## 📞 Kontakt ja abi
 
 Küsimuste korral:
-- **GitHub Issues** – tehniline abi
-- **Slack #portfoolio** – kiired küsimused
-- **Tech Lead:** nimi@email.ee
 
 ---
 
